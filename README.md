@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Thimal Ushara Geekiyanage
 - 👀 I’m interested in web based development technologies.
-- 🌱 I’m currently learning MERN stack and related technologies.
+- 🌱 I’m currently working on Spring and related technologies.
 - 💞️ I’m looking to collaborate on projects which meets my interests.
 - 📫 You can reach me on thimalushara@gmail.com
